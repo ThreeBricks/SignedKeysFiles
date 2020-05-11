@@ -1,0 +1,11 @@
+branch off palisade -development master branch at SHA 87e7ffd1ef035dfd1c07460a35aac7050a948092
+
+Created demos:
+signingTest.cpp
+keyStore.cpp
+demo-simple-example-serial.cpp #used as demo for chkpt 1
+
+
+Modified
+gpv.h -> testgpv.h
+signaturecore.h - > testsignaturecore.h
